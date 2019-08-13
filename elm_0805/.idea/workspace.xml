@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4c8c47d-72ac-4366-a6f0-b56fd5239a8e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P0efj5WxvIcUUcMle9lnppkvlK" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DartsTest.aGameshouldStartAt301">
+    <configuration name="DartsTest.aGameshouldStartAt301" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elm_0805" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DartsTest" />
+      <option name="METHOD_NAME" value="aGameshouldStartAt301" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DartsTest.shouldCorrectlyCalculateDoubleThrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elm_0805" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DartsTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyCalculateDoubleThrow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DartsTest.shouldCorrectlyCalculateNormalThrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elm_0805" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DartsTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyCalculateNormalThrow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DartsTest.shouldCorrectlyCalculateTripleThrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elm_0805" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DartsTest" />
+      <option name="METHOD_NAME" value="shouldCorrectlyCalculateTripleThrow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DartsTest.shouldCountTheTurn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elm_0805" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DartsTest" />
+      <option name="METHOD_NAME" value="shouldCountTheTurn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DartsTest.aGameshouldStartAt301" />
+        <item itemvalue="JUnit.DartsTest.shouldCountTheTurn" />
+        <item itemvalue="JUnit.DartsTest.shouldCorrectlyCalculateTripleThrow" />
+        <item itemvalue="JUnit.DartsTest.shouldCorrectlyCalculateDoubleThrow" />
+        <item itemvalue="JUnit.DartsTest.shouldCorrectlyCalculateNormalThrow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c8c47d-72ac-4366-a6f0-b56fd5239a8e" name="Default Changelist" comment="" />
+      <created>1565015545279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565015545279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="darts" type="b2602c69:ProjectViewProjectNode" />
+        <item name="elm_0805" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
